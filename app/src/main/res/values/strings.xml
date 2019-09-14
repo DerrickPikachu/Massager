@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Massager</string>
+    <string name="TouchText">按住這裡會震動</string>
 </resources>
